@@ -44,7 +44,7 @@ const Footer: React.FC = () => {
 
   return (
     <>
-      <InfoPanel
+      {/* <InfoPanel
         openState={infoPanelState.donate}
         title="Buy us a coffee"
         icon={IconCoffee}
@@ -145,14 +145,14 @@ const Footer: React.FC = () => {
         <img className="ml-1 w-5/12 " src={redBookCode} alt="redBook" />
         <p className="text-sm text-gray-500 dark:text-gray-400">Tips: 从小红书“我”的左上角点击 三 找到 扫一扫</p>
         <br />
-      </InfoPanel>
+      </InfoPanel> */}
 
       <footer className="mb-1 mt-4 flex w-full items-center justify-center gap-2.5 text-sm ease-in" onClick={(e) => e.currentTarget.blur()}>
-        <a href="https://github.com/Kaiyiwing/qwerty-learner" target="_blank" rel="noreferrer" aria-label="前往 GitHub 项目主页">
+        {/* <a href="https://github.com/Kaiyiwing/qwerty-learner" target="_blank" rel="noreferrer" aria-label="前往 GitHub 项目主页">
           <IconGithub fontSize={15} className="text-gray-500 hover:text-gray-800 dark:text-gray-400 dark:hover:text-gray-100" />
-        </a>
+        </a> */}
 
-        <button
+        {/* <button
           className="cursor-pointer"
           type="button"
           onClick={(e) => {
@@ -220,8 +220,8 @@ const Footer: React.FC = () => {
           <a href="https://kaiyiwing.gitee.io/qwerty-learner" target="_self" title="前往中国大陆镜像">
             <IconFlagChina fontSize={16} />
           </a>
-        </Tooltip>
-
+        </Tooltip> */}
+        {/* 
         <button
           className="cursor-pointer text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200"
           type="button"
@@ -231,7 +231,7 @@ const Footer: React.FC = () => {
           }}
         >
           @ Qwerty Learner
-        </button>
+        </button> */}
 
         <a
           className="cursor-pointer text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200"
@@ -239,11 +239,11 @@ const Footer: React.FC = () => {
           target="_blank"
           rel="noreferrer"
         >
-          鲁ICP备2022030649号
+          冀ICP备18005086号
         </a>
-        <span className="select-none rounded bg-slate-200 px-1 text-xs text-slate-600 dark:bg-slate-800 dark:text-slate-400">
+        {/* <span className="select-none rounded bg-slate-200 px-1 text-xs text-slate-600 dark:bg-slate-800 dark:text-slate-400">
           Build <span className="select-all">{LATEST_COMMIT_HASH}</span>
-        </span>
+        </span> */}
       </footer>
     </>
   )

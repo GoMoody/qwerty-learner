@@ -1,0 +1,257 @@
+[
+  {
+    "name": "mom",
+    "trans": [
+      "妈妈",
+      "👩"
+    ],
+    "usphone": "mɑːm",
+    "ukphone": "mɒm"
+  },
+  {
+    "name": "dad",
+    "trans": [
+      "爸爸",
+      "👨"
+    ],
+    "usphone": "dæd",
+    "ukphone": "dæd"
+  },
+  {
+    "name": "baby",
+    "trans": [
+      "宝宝",
+      "👶"
+    ],
+    "usphone": "ˈbeɪbi",
+    "ukphone": "ˈbeɪbi"
+  },
+  {
+    "name": "sister",
+    "trans": [
+      "姐妹",
+      "👧"
+    ],
+    "usphone": "ˈsɪstər",
+    "ukphone": "ˈsɪstə"
+  },
+  {
+    "name": "brother",
+    "trans": [
+      "兄弟",
+      "👦"
+    ],
+    "usphone": "ˈbrʌðər",
+    "ukphone": "ˈbrʌðə"
+  },
+  {
+    "name": "grandma",
+    "trans": [
+      "奶奶",
+      "👵"
+    ],
+    "usphone": "ˈɡrænmɑː",
+    "ukphone": "ˈɡrænmɑː"
+  },
+  {
+    "name": "grandpa",
+    "trans": [
+      "爷爷",
+      "👴"
+    ],
+    "usphone": "ˈɡrænpɑː",
+    "ukphone": "ˈɡrænpɑː"
+  },
+  {
+    "name": "aunt",
+    "trans": [
+      "阿姨",
+      "👩"
+    ],
+    "usphone": "ænt",
+    "ukphone": "ɑːnt"
+  },
+  {
+    "name": "uncle",
+    "trans": [
+      "叔叔",
+      "👨"
+    ],
+    "usphone": "ˈʌŋkl",
+    "ukphone": "ˈʌŋkl"
+  },
+  {
+    "name": "cousin",
+    "trans": [
+      "表兄弟姐妹",
+      "🧑"
+    ],
+    "usphone": "ˈkʌzn",
+    "ukphone": "ˈkʌzn"
+  },
+  {
+    "name": "family",
+    "trans": [
+      "家庭",
+      "👨‍👩‍👧‍👦"
+    ],
+    "usphone": "ˈfæmɪli",
+    "ukphone": "ˈfæmɪli"
+  },
+  {
+    "name": "parents",
+    "trans": [
+      "父母",
+      "👫"
+    ],
+    "usphone": "ˈperənts",
+    "ukphone": "ˈpeərənts"
+  },
+  {
+    "name": "children",
+    "trans": [
+      "孩子们",
+      "👶"
+    ],
+    "usphone": "ˈtʃɪldrən",
+    "ukphone": "ˈtʃɪldrən"
+  },
+  {
+    "name": "son",
+    "trans": [
+      "儿子",
+      "👦"
+    ],
+    "usphone": "sʌn",
+    "ukphone": "sʌn"
+  },
+  {
+    "name": "daughter",
+    "trans": [
+      "女儿",
+      "👧"
+    ],
+    "usphone": "ˈdɔːtər",
+    "ukphone": "ˈdɔːtə"
+  },
+  {
+    "name": "grandson",
+    "trans": [
+      "孙子"
+    ],
+    "usphone": "ˈɡrænsʌn",
+    "ukphone": "ˈɡrænsʌn"
+  },
+  {
+    "name": "granddaughter",
+    "trans": [
+      "孙女"
+    ],
+    "usphone": "ˈɡrændɔːtər",
+    "ukphone": "ˈɡrændɔːtə"
+  },
+  {
+    "name": "nephew",
+    "trans": [
+      "侄子/外甥"
+    ],
+    "usphone": "ˈnefjuː",
+    "ukphone": "ˈnefjuː"
+  },
+  {
+    "name": "niece",
+    "trans": [
+      "侄女/外甥女"
+    ],
+    "usphone": "niːs",
+    "ukphone": "niːs"
+  },
+  {
+    "name": "mother-in-law",
+    "trans": [
+      "婆婆/岳母"
+    ],
+    "usphone": "ˈmʌðər ɪn lɔː",
+    "ukphone": "ˈmʌðər ɪn lɔː"
+  },
+  {
+    "name": "father-in-law",
+    "trans": [
+      "公公/岳父"
+    ],
+    "usphone": "ˈfɑːðər ɪn lɔː",
+    "ukphone": "ˈfɑːðə ɪn lɔː"
+  },
+  {
+    "name": "sister-in-law",
+    "trans": [
+      "嫂子/弟媳"
+    ],
+    "usphone": "ˈsɪstər ɪn lɔː",
+    "ukphone": "ˈsɪstə ɪn lɔː"
+  },
+  {
+    "name": "brother-in-law",
+    "trans": [
+      "姐夫/妹夫"
+    ],
+    "usphone": "ˈbrʌðər ɪn lɔː",
+    "ukphone": "ˈbrʌðə ɪn lɔː"
+  },
+  {
+    "name": "stepmother",
+    "trans": [
+      "继母"
+    ],
+    "usphone": "ˈstepmʌðər",
+    "ukphone": "ˈstepmʌðə"
+  },
+  {
+    "name": "stepfather",
+    "trans": [
+      "继父"
+    ],
+    "usphone": "ˈstepfɑːðər",
+    "ukphone": "ˈstepfɑːðə"
+  },
+  {
+    "name": "stepsister",
+    "trans": [
+      "继姐妹"
+    ],
+    "usphone": "ˈstepsɪstər",
+    "ukphone": "ˈstepsɪstə"
+  },
+  {
+    "name": "stepbrother",
+    "trans": [
+      "继兄弟"
+    ],
+    "usphone": "ˈstepbrʌðər",
+    "ukphone": "ˈstepbrʌðə"
+  },
+  {
+    "name": "twin",
+    "trans": [
+      "双胞胎"
+    ],
+    "usphone": "twɪn",
+    "ukphone": "twɪn"
+  },
+  {
+    "name": "relative",
+    "trans": [
+      "亲戚"
+    ],
+    "usphone": "ˈrelətɪv",
+    "ukphone": "ˈrelətɪv"
+  },
+  {
+    "name": "generation",
+    "trans": [
+      "代"
+    ],
+    "usphone": "ˌdʒenəˈreɪʃn",
+    "ukphone": "ˌdʒenəˈreɪʃn"
+  }
+]

@@ -1,0 +1,272 @@
+[
+    {
+        "name": "carrot",
+        "trans": [
+            "胡萝卜",
+            "🥕"
+        ],
+        "usphone": "ˈkærət",
+        "ukphone": "ˈkærət"
+    },
+    {
+        "name": "potato",
+        "trans": [
+            "土豆",
+            "🥔"
+        ],
+        "usphone": "pəˈteɪtoʊ",
+        "ukphone": "pəˈteɪtəʊ"
+    },
+    {
+        "name": "tomato",
+        "trans": [
+            "番茄",
+            "🍅"
+        ],
+        "usphone": "təˈmeɪtoʊ",
+        "ukphone": "təˈmɑːtəʊ"
+    },
+    {
+        "name": "cucumber",
+        "trans": [
+            "黄瓜",
+            "🥒"
+        ],
+        "usphone": "ˈkjuːkʌmbər",
+        "ukphone": "ˈkjuːkʌmbə"
+    },
+    {
+        "name": "cabbage",
+        "trans": [
+            "卷心菜",
+            "🥬"
+        ],
+        "usphone": "ˈkæbɪdʒ",
+        "ukphone": "ˈkæbɪdʒ"
+    },
+    {
+        "name": "broccoli",
+        "trans": [
+            "西兰花",
+            "🥦"
+        ],
+        "usphone": "ˈbrɑːkəli",
+        "ukphone": "ˈbrɒkəli"
+    },
+    {
+        "name": "spinach",
+        "trans": [
+            "菠菜",
+            "🥬"
+        ],
+        "usphone": "ˈspɪnɪtʃ",
+        "ukphone": "ˈspɪnɪdʒ"
+    },
+    {
+        "name": "lettuce",
+        "trans": [
+            "生菜",
+            "🥬"
+        ],
+        "usphone": "ˈletɪs",
+        "ukphone": "ˈletɪs"
+    },
+    {
+        "name": "onion",
+        "trans": [
+            "洋葱",
+            "🧅"
+        ],
+        "usphone": "ˈʌnjən",
+        "ukphone": "ˈʌnjən"
+    },
+    {
+        "name": "garlic",
+        "trans": [
+            "大蒜",
+            "🧄"
+        ],
+        "usphone": "ˈɡɑːrlɪk",
+        "ukphone": "ˈɡɑːlɪk"
+    },
+    {
+        "name": "pepper",
+        "trans": [
+            "辣椒",
+            "🌶️"
+        ],
+        "usphone": "ˈpepər",
+        "ukphone": "ˈpepə"
+    },
+    {
+        "name": "eggplant",
+        "trans": [
+            "茄子",
+            "🍆"
+        ],
+        "usphone": "ˈeɡplænt",
+        "ukphone": "ˈeɡplɑːnt"
+    },
+    {
+        "name": "pumpkin",
+        "trans": [
+            "南瓜",
+            "🎃"
+        ],
+        "usphone": "ˈpʌmpkɪn",
+        "ukphone": "ˈpʌmpkɪn"
+    },
+    {
+        "name": "corn",
+        "trans": [
+            "玉米",
+            "🌽"
+        ],
+        "usphone": "kɔːrn",
+        "ukphone": "kɔːn"
+    },
+    {
+        "name": "pea",
+        "trans": [
+            "豌豆",
+            "🫘"
+        ],
+        "usphone": "piː",
+        "ukphone": "piː"
+    },
+    {
+        "name": "bean",
+        "trans": [
+            "豆子",
+            "🫘"
+        ],
+        "usphone": "biːn",
+        "ukphone": "biːn"
+    },
+    {
+        "name": "mushroom",
+        "trans": [
+            "蘑菇",
+            "🍄"
+        ],
+        "usphone": "ˈmʌʃruːm",
+        "ukphone": "ˈmʌʃrʊm"
+    },
+    {
+        "name": "radish",
+        "trans": [
+            "萝卜",
+            "🥕"
+        ],
+        "usphone": "ˈrædɪʃ",
+        "ukphone": "ˈrædɪʃ"
+    },
+    {
+        "name": "celery",
+        "trans": [
+            "芹菜",
+            "🥬"
+        ],
+        "usphone": "ˈseləri",
+        "ukphone": "ˈseləri"
+    },
+    {
+        "name": "asparagus",
+        "trans": [
+            "芦笋",
+            "🥬"
+        ],
+        "usphone": "əˈspærəɡəs",
+        "ukphone": "əˈspærəɡəs"
+    },
+    {
+        "name": "cauliflower",
+        "trans": [
+            "花椰菜",
+            "🥦"
+        ],
+        "usphone": "ˈkɔːliflaʊər",
+        "ukphone": "ˈkɒliflaʊə"
+    },
+    {
+        "name": "zucchini",
+        "trans": [
+            "西葫芦",
+            "🥒"
+        ],
+        "usphone": "zuːˈkiːni",
+        "ukphone": "zuːˈkiːni"
+    },
+    {
+        "name": "squash",
+        "trans": [
+            "南瓜",
+            "🎃"
+        ],
+        "usphone": "skwɑːʃ",
+        "ukphone": "skwɒʃ"
+    },
+    {
+        "name": "turnip",
+        "trans": [
+            "芜菁",
+            "🥕"
+        ],
+        "usphone": "ˈtɜːrnɪp",
+        "ukphone": "ˈtɜːnɪp"
+    },
+    {
+        "name": "beet",
+        "trans": [
+            "甜菜",
+            "🥕"
+        ],
+        "usphone": "biːt",
+        "ukphone": "biːt"
+    },
+    {
+        "name": "artichoke",
+        "trans": [
+            "洋蓟",
+            "🥬"
+        ],
+        "usphone": "ˈɑːrtɪtʃoʊk",
+        "ukphone": "ˈɑːtɪtʃəʊk"
+    },
+    {
+        "name": "leek",
+        "trans": [
+            "韭葱",
+            "🧅"
+        ],
+        "usphone": "liːk",
+        "ukphone": "liːk"
+    },
+    {
+        "name": "ginger",
+        "trans": [
+            "姜",
+            "🥬"
+        ],
+        "usphone": "ˈdʒɪndʒər",
+        "ukphone": "ˈdʒɪndʒə"
+    },
+    {
+        "name": "yam",
+        "trans": [
+            "山药",
+            "🥔"
+        ],
+        "usphone": "jæm",
+        "ukphone": "jæm"
+    },
+    {
+        "name": "okra",
+        "trans": [
+            "秋葵",
+            "🥬"
+        ],
+        "usphone": "ˈoʊkrə",
+        "ukphone": "ˈəʊkrə"
+    }
+]

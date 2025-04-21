@@ -1,0 +1,454 @@
+[
+  {
+    "name": "book",
+    "trans": [
+      "书",
+      "📚"
+    ],
+    "usphone": "bʊk",
+    "ukphone": "bʊk"
+  },
+  {
+    "name": "ball",
+    "trans": [
+      "球",
+      "⚽"
+    ],
+    "usphone": "bɔːl",
+    "ukphone": "bɔːl"
+  },
+  {
+    "name": "apple",
+    "trans": [
+      "苹果"
+    ],
+    "usphone": "ˈæp.əl",
+    "ukphone": "ˈæp.əl"
+  },
+  {
+    "name": "chair",
+    "trans": [
+      "椅子",
+      "🪑"
+    ],
+    "usphone": "tʃer",
+    "ukphone": "tʃeə"
+  },
+  {
+    "name": "table",
+    "trans": [
+      "桌子",
+      "🪑"
+    ],
+    "usphone": "ˈteɪbl",
+    "ukphone": "ˈteɪbl"
+  },
+  {
+    "name": "pencil",
+    "trans": [
+      "铅笔",
+      "✏️"
+    ],
+    "usphone": "ˈpensl",
+    "ukphone": "ˈpensl"
+  },
+  {
+    "name": "crayon",
+    "trans": [
+      "蜡笔",
+      "🖍️"
+    ],
+    "usphone": "ˈkreɪɑːn",
+    "ukphone": "ˈkreɪən"
+  },
+  {
+    "name": "paper",
+    "trans": [
+      "纸",
+      "📄"
+    ],
+    "usphone": "ˈpeɪpər",
+    "ukphone": "ˈpeɪpə"
+  },
+  {
+    "name": "scissors",
+    "trans": [
+      "剪刀",
+      "✂️"
+    ],
+    "usphone": "ˈsɪzərz",
+    "ukphone": "ˈsɪzəz"
+  },
+  {
+    "name": "glue",
+    "trans": [
+      "胶水",
+      "🖊️"
+    ],
+    "usphone": "ɡluː",
+    "ukphone": "ɡluː"
+  },
+  {
+    "name": "backpack",
+    "trans": [
+      "书包",
+      "🎒"
+    ],
+    "usphone": "ˈbækpæk",
+    "ukphone": "ˈbækpæk"
+  },
+  {
+    "name": "lunchbox",
+    "trans": [
+      "午餐盒"
+    ],
+    "usphone": "ˈlʌntʃbɑːks",
+    "ukphone": "ˈlʌntʃbɒks"
+  },
+  {
+    "name": "bottle",
+    "trans": [
+      "水杯"
+    ],
+    "usphone": "ˈbɑːtl",
+    "ukphone": "ˈbɒtl"
+  },
+  {
+    "name": "toy",
+    "trans": [
+      "玩具",
+      "🧸"
+    ],
+    "usphone": "tɔɪ",
+    "ukphone": "tɔɪ"
+  },
+  {
+    "name": "doll",
+    "trans": [
+      "洋娃娃",
+      "👶"
+    ],
+    "usphone": "dɑːl",
+    "ukphone": "dɒl"
+  },
+  {
+    "name": "block",
+    "trans": [
+      "积木",
+      "🧱"
+    ],
+    "usphone": "blɑːk",
+    "ukphone": "blɒk"
+  },
+  {
+    "name": "puzzle",
+    "trans": [
+      "拼图",
+      "🧩"
+    ],
+    "usphone": "ˈpʌzl",
+    "ukphone": "ˈpʌzl"
+  },
+  {
+    "name": "paint",
+    "trans": [
+      "颜料",
+      "🎨"
+    ],
+    "usphone": "peɪnt",
+    "ukphone": "peɪnt"
+  },
+  {
+    "name": "brush",
+    "trans": [
+      "画笔",
+      "🖌️"
+    ],
+    "usphone": "brʌʃ",
+    "ukphone": "brʌʃ"
+  },
+  {
+    "name": "marker",
+    "trans": [
+      "记号笔",
+      "🖊️"
+    ],
+    "usphone": "ˈmɑːrkər",
+    "ukphone": "ˈmɑːkə"
+  },
+  {
+    "name": "eraser",
+    "trans": [
+      "橡皮",
+      "✏️"
+    ],
+    "usphone": "ɪˈreɪsər",
+    "ukphone": "ɪˈreɪzə"
+  },
+  {
+    "name": "ruler",
+    "trans": [
+      "尺子",
+      "📏"
+    ],
+    "usphone": "ˈruːlər",
+    "ukphone": "ˈruːlə"
+  },
+  {
+    "name": "notebook",
+    "trans": [
+      "笔记本",
+      "📓"
+    ],
+    "usphone": "ˈnoʊtbʊk",
+    "ukphone": "ˈnəʊtbʊk"
+  },
+  {
+    "name": "folder",
+    "trans": [
+      "文件夹",
+      "📁"
+    ],
+    "usphone": "ˈfoʊldər",
+    "ukphone": "ˈfəʊldə"
+  },
+  {
+    "name": "sticker",
+    "trans": [
+      "贴纸",
+      "🏷️"
+    ],
+    "usphone": "ˈstɪkər",
+    "ukphone": "ˈstɪkə"
+  },
+  {
+    "name": "tape",
+    "trans": [
+      "胶带",
+      "📼"
+    ],
+    "usphone": "teɪp",
+    "ukphone": "teɪp"
+  },
+  {
+    "name": "clock",
+    "trans": [
+      "时钟",
+      "🕐"
+    ],
+    "usphone": "klɑːk",
+    "ukphone": "klɒk"
+  },
+  {
+    "name": "calendar",
+    "trans": [
+      "日历",
+      "📅"
+    ],
+    "usphone": "ˈkælɪndər",
+    "ukphone": "ˈkælɪndə"
+  },
+  {
+    "name": "map",
+    "trans": [
+      "地图",
+      "🗺️"
+    ],
+    "usphone": "mæp",
+    "ukphone": "mæp"
+  },
+  {
+    "name": "globe",
+    "trans": [
+      "地球仪",
+      "🌍"
+    ],
+    "usphone": "ɡloʊb",
+    "ukphone": "ɡləʊb"
+  },
+  {
+    "name": "computer",
+    "trans": [
+      "电脑",
+      "💻"
+    ],
+    "usphone": "kəmˈpjuːtər",
+    "ukphone": "kəmˈpjuːtə"
+  },
+  {
+    "name": "keyboard",
+    "trans": [
+      "键盘",
+      "⌨️"
+    ],
+    "usphone": "ˈkiːbɔːrd",
+    "ukphone": "ˈkiːbɔːd"
+  },
+  {
+    "name": "mouse",
+    "trans": [
+      "鼠标",
+      "🖱️"
+    ],
+    "usphone": "maʊs",
+    "ukphone": "maʊs"
+  },
+  {
+    "name": "screen",
+    "trans": [
+      "屏幕",
+      "🖥️"
+    ],
+    "usphone": "skriːn",
+    "ukphone": "skriːn"
+  },
+  {
+    "name": "headphones",
+    "trans": [
+      "耳机",
+      "🎧"
+    ],
+    "usphone": "ˈhedfəʊnz",
+    "ukphone": "ˈhedfəʊnz"
+  },
+  {
+    "name": "microphone",
+    "trans": [
+      "麦克风",
+      "🎤"
+    ],
+    "usphone": "ˈmaɪkrəfoʊn",
+    "ukphone": "ˈmaɪkrəfəʊn"
+  },
+  {
+    "name": "camera",
+    "trans": [
+      "相机",
+      "📷"
+    ],
+    "usphone": "ˈkæmərə",
+    "ukphone": "ˈkæmərə"
+  },
+  {
+    "name": "binoculars",
+    "trans": [
+      "望远镜",
+      "🔭"
+    ],
+    "usphone": "bɪˈnɑːkjələrz",
+    "ukphone": "bɪˈnɒkjʊləz"
+  },
+  {
+    "name": "magnifying glass",
+    "trans": [
+      "放大镜"
+    ],
+    "usphone": "ˈmæɡnɪfaɪɪŋ ɡlæs",
+    "ukphone": "ˈmæɡnɪfaɪɪŋ ɡlɑːs"
+  },
+  {
+    "name": "thermometer",
+    "trans": [
+      "温度计",
+      "🌡️"
+    ],
+    "usphone": "θərˈmɑːmɪtər",
+    "ukphone": "θəˈmɒmɪtə"
+  },
+  {
+    "name": "scale",
+    "trans": [
+      "秤",
+      "⚖️"
+    ],
+    "usphone": "skeɪl",
+    "ukphone": "skeɪl"
+  },
+  {
+    "name": "ruler",
+    "trans": [
+      "尺子"
+    ],
+    "usphone": "ˈruːlər",
+    "ukphone": "ˈruːlə"
+  },
+  {
+    "name": "protractor",
+    "trans": [
+      "量角器"
+    ],
+    "usphone": "prəˈtræktər",
+    "ukphone": "prəˈtræktə"
+  },
+  {
+    "name": "compass",
+    "trans": [
+      "圆规"
+    ],
+    "usphone": "ˈkʌmpəs",
+    "ukphone": "ˈkʌmpəs"
+  },
+  {
+    "name": "calculator",
+    "trans": [
+      "计算器",
+      "🧮"
+    ],
+    "usphone": "ˈkælkjuleɪtər",
+    "ukphone": "ˈkælkjʊleɪtə"
+  },
+  {
+    "name": "flashlight",
+    "trans": [
+      "手电筒",
+      "🔦"
+    ],
+    "usphone": "ˈflæʃlaɪt",
+    "ukphone": "ˈflæʃlaɪt"
+  },
+  {
+    "name": "umbrella",
+    "trans": [
+      "雨伞",
+      "☔"
+    ],
+    "usphone": "ʌmˈbrelə",
+    "ukphone": "ʌmˈbrelə"
+  },
+  {
+    "name": "hat",
+    "trans": [
+      "帽子",
+      "🎩"
+    ],
+    "usphone": "hæt",
+    "ukphone": "hæt"
+  },
+  {
+    "name": "coat",
+    "trans": [
+      "外套",
+      "🧥"
+    ],
+    "usphone": "koʊt",
+    "ukphone": "kəʊt"
+  },
+  {
+    "name": "shoes",
+    "trans": [
+      "鞋子",
+      "👞"
+    ],
+    "usphone": "ʃuːz",
+    "ukphone": "ʃuːz"
+  },
+  {
+    "name": "socks",
+    "trans": [
+      "袜子",
+      "🧦"
+    ],
+    "usphone": "sɑːks",
+    "ukphone": "sɒks"
+  }
+]

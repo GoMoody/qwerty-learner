@@ -1,0 +1,272 @@
+[
+  {
+    "name": "cat",
+    "trans": [
+      "猫",
+      "🐱"
+    ],
+    "usphone": "kæt",
+    "ukphone": "kæt"
+  },
+  {
+    "name": "dog",
+    "trans": [
+      "狗",
+      "🐶"
+    ],
+    "usphone": "dɔːɡ",
+    "ukphone": "dɒɡ"
+  },
+  {
+    "name": "bird",
+    "trans": [
+      "鸟",
+      "🐦"
+    ],
+    "usphone": "bɜːrd",
+    "ukphone": "bɜːd"
+  },
+  {
+    "name": "fish",
+    "trans": [
+      "鱼",
+      "🐟"
+    ],
+    "usphone": "fɪʃ",
+    "ukphone": "fɪʃ"
+  },
+  {
+    "name": "rabbit",
+    "trans": [
+      "兔子",
+      "🐰"
+    ],
+    "usphone": "ˈræbɪt",
+    "ukphone": "ˈræbɪt"
+  },
+  {
+    "name": "elephant",
+    "trans": [
+      "大象",
+      "🐘"
+    ],
+    "usphone": "ˈelɪfənt",
+    "ukphone": "ˈelɪfənt"
+  },
+  {
+    "name": "tiger",
+    "trans": [
+      "老虎",
+      "🐯"
+    ],
+    "usphone": "ˈtaɪɡər",
+    "ukphone": "ˈtaɪɡə"
+  },
+  {
+    "name": "lion",
+    "trans": [
+      "狮子",
+      "🦁"
+    ],
+    "usphone": "ˈlaɪən",
+    "ukphone": "ˈlaɪən"
+  },
+  {
+    "name": "monkey",
+    "trans": [
+      "猴子",
+      "🐒"
+    ],
+    "usphone": "ˈmʌŋki",
+    "ukphone": "ˈmʌŋki"
+  },
+  {
+    "name": "panda",
+    "trans": [
+      "熊猫",
+      "🐼"
+    ],
+    "usphone": "ˈpændə",
+    "ukphone": "ˈpændə"
+  },
+  {
+    "name": "bear",
+    "trans": [
+      "熊",
+      "🐻"
+    ],
+    "usphone": "ber",
+    "ukphone": "beə"
+  },
+  {
+    "name": "giraffe",
+    "trans": [
+      "长颈鹿",
+      "🦒"
+    ],
+    "usphone": "dʒəˈræf",
+    "ukphone": "dʒɪˈrɑːf"
+  },
+  {
+    "name": "zebra",
+    "trans": [
+      "斑马",
+      "🦓"
+    ],
+    "usphone": "ˈziːbrə",
+    "ukphone": "ˈzebrə"
+  },
+  {
+    "name": "cow",
+    "trans": [
+      "奶牛",
+      "🐮"
+    ],
+    "usphone": "kaʊ",
+    "ukphone": "kaʊ"
+  },
+  {
+    "name": "pig",
+    "trans": [
+      "猪",
+      "🐷"
+    ],
+    "usphone": "pɪɡ",
+    "ukphone": "pɪɡ"
+  },
+  {
+    "name": "sheep",
+    "trans": [
+      "绵羊",
+      "🐑"
+    ],
+    "usphone": "ʃiːp",
+    "ukphone": "ʃiːp"
+  },
+  {
+    "name": "horse",
+    "trans": [
+      "马",
+      "🐎"
+    ],
+    "usphone": "hɔːrs",
+    "ukphone": "hɔːs"
+  },
+  {
+    "name": "duck",
+    "trans": [
+      "鸭子",
+      "🦆"
+    ],
+    "usphone": "dʌk",
+    "ukphone": "dʌk"
+  },
+  {
+    "name": "chicken",
+    "trans": [
+      "鸡",
+      "🐔"
+    ],
+    "usphone": "ˈtʃɪkɪn",
+    "ukphone": "ˈtʃɪkɪn"
+  },
+  {
+    "name": "mouse",
+    "trans": [
+      "老鼠",
+      "🐭"
+    ],
+    "usphone": "maʊs",
+    "ukphone": "maʊs"
+  },
+  {
+    "name": "frog",
+    "trans": [
+      "青蛙",
+      "🐸"
+    ],
+    "usphone": "frɑːɡ",
+    "ukphone": "frɒɡ"
+  },
+  {
+    "name": "turtle",
+    "trans": [
+      "乌龟",
+      "🐢"
+    ],
+    "usphone": "ˈtɜːrtl",
+    "ukphone": "ˈtɜːtl"
+  },
+  {
+    "name": "snake",
+    "trans": [
+      "蛇",
+      "🐍"
+    ],
+    "usphone": "sneɪk",
+    "ukphone": "sneɪk"
+  },
+  {
+    "name": "butterfly",
+    "trans": [
+      "蝴蝶",
+      "🦋"
+    ],
+    "usphone": "ˈbʌtərflaɪ",
+    "ukphone": "ˈbʌtəflaɪ"
+  },
+  {
+    "name": "bee",
+    "trans": [
+      "蜜蜂",
+      "🐝"
+    ],
+    "usphone": "biː",
+    "ukphone": "biː"
+  },
+  {
+    "name": "ant",
+    "trans": [
+      "蚂蚁",
+      "🐜"
+    ],
+    "usphone": "ænt",
+    "ukphone": "ænt"
+  },
+  {
+    "name": "spider",
+    "trans": [
+      "蜘蛛",
+      "🕷️"
+    ],
+    "usphone": "ˈspaɪdər",
+    "ukphone": "ˈspaɪdə"
+  },
+  {
+    "name": "dolphin",
+    "trans": [
+      "海豚",
+      "🐬"
+    ],
+    "usphone": "ˈdɑːlfɪn",
+    "ukphone": "ˈdɒlfɪn"
+  },
+  {
+    "name": "whale",
+    "trans": [
+      "鲸鱼",
+      "🐋"
+    ],
+    "usphone": "weɪl",
+    "ukphone": "weɪl"
+  },
+  {
+    "name": "shark",
+    "trans": [
+      "鲨鱼",
+      "🦈"
+    ],
+    "usphone": "ʃɑːrk",
+    "ukphone": "ʃɑːk"
+  }
+]

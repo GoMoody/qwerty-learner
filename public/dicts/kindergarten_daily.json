@@ -1,0 +1,263 @@
+[
+  {
+    "name": "hello",
+    "trans": [
+      "你好",
+      "👋"
+    ],
+    "usphone": "həˈloʊ",
+    "ukphone": "həˈləʊ"
+  },
+  {
+    "name": "goodbye",
+    "trans": [
+      "再见",
+      "👋"
+    ],
+    "usphone": "ɡʊdˈbaɪ",
+    "ukphone": "ɡʊdˈbaɪ"
+  },
+  {
+    "name": "thank",
+    "trans": [
+      "谢谢",
+      "🙏"
+    ],
+    "usphone": "θæŋk",
+    "ukphone": "θæŋk"
+  },
+  {
+    "name": "please",
+    "trans": [
+      "请",
+      "🙏"
+    ],
+    "usphone": "pliːz",
+    "ukphone": "pliːz"
+  },
+  {
+    "name": "sorry",
+    "trans": [
+      "对不起",
+      "🙇"
+    ],
+    "usphone": "ˈsɑːri",
+    "ukphone": "ˈsɒri"
+  },
+  {
+    "name": "yes",
+    "trans": [
+      "是的",
+      "✅"
+    ],
+    "usphone": "jes",
+    "ukphone": "jes"
+  },
+  {
+    "name": "no",
+    "trans": [
+      "不",
+      "❌"
+    ],
+    "usphone": "noʊ",
+    "ukphone": "nəʊ"
+  },
+  {
+    "name": "good morning",
+    "trans": [
+      "早上好",
+      "🌅"
+    ],
+    "usphone": "ɡʊd ˈmɔːrnɪŋ",
+    "ukphone": "ɡʊd ˈmɔːnɪŋ"
+  },
+  {
+    "name": "good night",
+    "trans": [
+      "晚安",
+      "🌙"
+    ],
+    "usphone": "ɡʊd naɪt",
+    "ukphone": "ɡʊd naɪt"
+  },
+  {
+    "name": "good afternoon",
+    "trans": [
+      "下午好",
+      "☀️"
+    ],
+    "usphone": "ɡʊd ˌæftərˈnuːn",
+    "ukphone": "ɡʊd ˌɑːftəˈnuːn"
+  },
+  {
+    "name": "how are you",
+    "trans": [
+      "你好吗",
+      "🤔"
+    ],
+    "usphone": "haʊ ɑːr juː",
+    "ukphone": "haʊ ɑː juː"
+  },
+  {
+    "name": "I'm fine",
+    "trans": [
+      "我很好",
+      "😊"
+    ],
+    "usphone": "aɪm faɪn",
+    "ukphone": "aɪm faɪn"
+  },
+  {
+    "name": "what's your name",
+    "trans": [
+      "你叫什么名字",
+      "🤝"
+    ],
+    "usphone": "wɑːts jɔːr neɪm",
+    "ukphone": "wɒts jɔː neɪm"
+  },
+  {
+    "name": "my name is",
+    "trans": [
+      "我的名字是",
+      "👤"
+    ],
+    "usphone": "maɪ neɪm ɪz",
+    "ukphone": "maɪ neɪm ɪz"
+  },
+  {
+    "name": "nice to meet you",
+    "trans": [
+      "很高兴见到你",
+      "🤝"
+    ],
+    "usphone": "naɪs tuː miːt juː",
+    "ukphone": "naɪs tuː miːt juː"
+  },
+  {
+    "name": "you're welcome",
+    "trans": [
+      "不客气",
+      "😊"
+    ],
+    "usphone": "jʊr ˈwelkəm",
+    "ukphone": "jɔː ˈwelkəm"
+  },
+  {
+    "name": "excuse me",
+    "trans": [
+      "打扰一下",
+      "🙋"
+    ],
+    "usphone": "ɪkˈskjuːz miː",
+    "ukphone": "ɪkˈskjuːz miː"
+  },
+  {
+    "name": "help",
+    "trans": [
+      "帮助",
+      "🆘"
+    ],
+    "usphone": "help",
+    "ukphone": "help"
+  },
+  {
+    "name": "wait",
+    "trans": [
+      "等待",
+      "⏳"
+    ],
+    "usphone": "weɪt",
+    "ukphone": "weɪt"
+  },
+  {
+    "name": "come",
+    "trans": [
+      "来",
+      "👉"
+    ],
+    "usphone": "kʌm",
+    "ukphone": "kʌm"
+  },
+  {
+    "name": "go",
+    "trans": [
+      "去",
+      "🚶"
+    ],
+    "usphone": "ɡoʊ",
+    "ukphone": "ɡəʊ"
+  },
+  {
+    "name": "sit",
+    "trans": [
+      "坐",
+      "💺"
+    ],
+    "usphone": "sɪt",
+    "ukphone": "sɪt"
+  },
+  {
+    "name": "stand",
+    "trans": [
+      "站",
+      "🧍"
+    ],
+    "usphone": "stænd",
+    "ukphone": "stænd"
+  },
+  {
+    "name": "quiet",
+    "trans": [
+      "安静",
+      "🤫"
+    ],
+    "usphone": "ˈkwaɪət",
+    "ukphone": "ˈkwaɪət"
+  },
+  {
+    "name": "listen",
+    "trans": [
+      "听",
+      "👂"
+    ],
+    "usphone": "ˈlɪsən",
+    "ukphone": "ˈlɪsən"
+  },
+  {
+    "name": "look",
+    "trans": [
+      "看",
+      "👀"
+    ],
+    "usphone": "lʊk",
+    "ukphone": "lʊk"
+  },
+  {
+    "name": "stop",
+    "trans": [
+      "停止",
+      "🛑"
+    ],
+    "usphone": "stɑːp",
+    "ukphone": "stɒp"
+  },
+  {
+    "name": "run",
+    "trans": [
+      "跑",
+      "🏃"
+    ],
+    "usphone": "rʌn",
+    "ukphone": "rʌn"
+  },
+  {
+    "name": "jump",
+    "trans": [
+      "跳",
+      "🦘"
+    ],
+    "usphone": "dʒʌmp",
+    "ukphone": "dʒʌmp"
+  }
+]

@@ -4100,11 +4100,104 @@ const indonesianDicts: DictionaryResource[] = [
   },
 ]
 
+// 幼儿园词典
+const kindergartenDicts: DictionaryResource[] = [
+  {
+    id: 'kindergarten_animals',
+    name: '日常动物词汇',
+    description: '日常动物相关词汇',
+    category: '幼儿园',
+    tags: ['基础'],
+    url: '/dicts/kindergarten_animals.json',
+    length: 30,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
+    id: 'kindergarten_colors',
+    name: '日常颜色词汇',
+    description: '日常颜色相关词汇',
+    category: '幼儿园',
+    tags: ['基础'],
+    url: '/dicts/kindergarten_colors.json',
+    length: 30,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
+    id: 'kindergarten_daily',
+    name: '日常日常词汇',
+    description: '日常日常相关词汇',
+    category: '幼儿园',
+    tags: ['基础'],
+    url: '/dicts/kindergarten_daily.json',
+    length: 30,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
+    id: 'kindergarten_family',
+    name: '日常家庭词汇',
+    description: '日常家庭相关词汇',
+    category: '幼儿园',
+    tags: ['基础'],
+    url: '/dicts/kindergarten_family.json',
+    length: 30,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
+    id: 'kindergarten_numbers',
+    name: '日常数字词汇',
+    description: '日常数字相关词汇',
+    category: '幼儿园',
+    tags: ['基础'],
+    url: '/dicts/kindergarten_numbers.json',
+    length: 50,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
+    id: 'kindergarten_objects',
+    name: '日常常见物品词汇',
+    description: '日常常见物品词汇',
+    category: '幼儿园',
+    tags: ['基础'],
+    url: '/dicts/kindergarten_objects.json',
+    length: 45,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
+    id: 'kindergarten_fruits',
+    name: '日常水果词汇',
+    description: '日常水果相关词汇',
+    category: '幼儿园',
+    tags: ['基础'],
+    url: '/dicts/kindergarten_fruits.json',
+    length: 30,
+    language: 'en',
+    languageCategory: 'en',
+  },
+  {
+    id: 'kindergarten_vegetables',
+    name: '日常蔬菜词汇',
+    description: '日常蔬菜相关词汇',
+    category: '幼儿园',
+    tags: ['基础'],
+    url: '/dicts/kindergarten_vegetables.json',
+    length: 30,
+    language: 'en',
+    languageCategory: 'en',
+  },
+]
+
 /**
  * Built-in dictionaries in an array.
  * Why arrays? Because it keeps the order across browsers.
  */
 export const dictionaryResources: DictionaryResource[] = [
+  ...kindergartenDicts,
   ...chinaExam,
   ...internationalExam,
   ...childrenEnglish,
@@ -4113,25 +4206,6 @@ export const dictionaryResources: DictionaryResource[] = [
   ...germanExam,
   ...kazakhHapinDicts,
   ...indonesianDicts,
-
-  // {
-  //   id: 'zhtest',
-  //   name: '中文测试',
-  //   description: '中文测试词库',
-  //   category: '测试',
-  //   url: '/dicts/chinese_test.json',
-  //   length: 27,
-  //   language: 'zh',
-  // },
-  // {
-  //   id: 'jptest',
-  //   name: '日文测试',
-  //   description: '日文测试词库',
-  //   category: '测试',
-  //   url: '/dicts/japanese_test.json',
-  //   length: 20,
-  //   language: 'ja',
-  // },
 ]
 
 export const dictionaries: Dictionary[] = dictionaryResources.map((resource) => ({

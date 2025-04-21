@@ -1,0 +1,414 @@
+[
+  {
+    "name": "one",
+    "trans": [
+      "一",
+      "1️⃣"
+    ],
+    "usphone": "wʌn",
+    "ukphone": "wʌn"
+  },
+  {
+    "name": "two",
+    "trans": [
+      "二",
+      "2️⃣"
+    ],
+    "usphone": "tuː",
+    "ukphone": "tuː"
+  },
+  {
+    "name": "three",
+    "trans": [
+      "三",
+      "3️⃣"
+    ],
+    "usphone": "θriː",
+    "ukphone": "θriː"
+  },
+  {
+    "name": "four",
+    "trans": [
+      "四",
+      "4️⃣"
+    ],
+    "usphone": "fɔːr",
+    "ukphone": "fɔː"
+  },
+  {
+    "name": "five",
+    "trans": [
+      "五",
+      "5️⃣"
+    ],
+    "usphone": "faɪv",
+    "ukphone": "faɪv"
+  },
+  {
+    "name": "six",
+    "trans": [
+      "六",
+      "6️⃣"
+    ],
+    "usphone": "sɪks",
+    "ukphone": "sɪks"
+  },
+  {
+    "name": "seven",
+    "trans": [
+      "七",
+      "7️⃣"
+    ],
+    "usphone": "ˈsevn",
+    "ukphone": "ˈsevn"
+  },
+  {
+    "name": "eight",
+    "trans": [
+      "八",
+      "8️⃣"
+    ],
+    "usphone": "eɪt",
+    "ukphone": "eɪt"
+  },
+  {
+    "name": "nine",
+    "trans": [
+      "九",
+      "9️⃣"
+    ],
+    "usphone": "naɪn",
+    "ukphone": "naɪn"
+  },
+  {
+    "name": "ten",
+    "trans": [
+      "十",
+      "🔟"
+    ],
+    "usphone": "ten",
+    "ukphone": "ten"
+  },
+  {
+    "name": "eleven",
+    "trans": [
+      "十一"
+    ],
+    "usphone": "ɪˈlevən",
+    "ukphone": "ɪˈlevən"
+  },
+  {
+    "name": "twelve",
+    "trans": [
+      "十二"
+    ],
+    "usphone": "twelv",
+    "ukphone": "twelv"
+  },
+  {
+    "name": "thirteen",
+    "trans": [
+      "十三"
+    ],
+    "usphone": "ˌθɜːrˈtiːn",
+    "ukphone": "ˌθɜːˈtiːn"
+  },
+  {
+    "name": "fourteen",
+    "trans": [
+      "十四"
+    ],
+    "usphone": "ˌfɔːrˈtiːn",
+    "ukphone": "ˌfɔːˈtiːn"
+  },
+  {
+    "name": "fifteen",
+    "trans": [
+      "十五"
+    ],
+    "usphone": "ˌfɪfˈtiːn",
+    "ukphone": "ˌfɪfˈtiːn"
+  },
+  {
+    "name": "sixteen",
+    "trans": [
+      "十六"
+    ],
+    "usphone": "ˌsɪksˈtiːn",
+    "ukphone": "ˌsɪksˈtiːn"
+  },
+  {
+    "name": "seventeen",
+    "trans": [
+      "十七"
+    ],
+    "usphone": "ˌsevənˈtiːn",
+    "ukphone": "ˌsevənˈtiːn"
+  },
+  {
+    "name": "eighteen",
+    "trans": [
+      "十八"
+    ],
+    "usphone": "ˌeɪˈtiːn",
+    "ukphone": "ˌeɪˈtiːn"
+  },
+  {
+    "name": "nineteen",
+    "trans": [
+      "十九"
+    ],
+    "usphone": "ˌnaɪnˈtiːn",
+    "ukphone": "ˌnaɪnˈtiːn"
+  },
+  {
+    "name": "twenty",
+    "trans": [
+      "二十"
+    ],
+    "usphone": "ˈtwenti",
+    "ukphone": "ˈtwenti"
+  },
+  {
+    "name": "thirty",
+    "trans": [
+      "三十"
+    ],
+    "usphone": "ˈθɜːrti",
+    "ukphone": "ˈθɜːti"
+  },
+  {
+    "name": "forty",
+    "trans": [
+      "四十"
+    ],
+    "usphone": "ˈfɔːrti",
+    "ukphone": "ˈfɔːti"
+  },
+  {
+    "name": "fifty",
+    "trans": [
+      "五十"
+    ],
+    "usphone": "ˈfɪfti",
+    "ukphone": "ˈfɪfti"
+  },
+  {
+    "name": "sixty",
+    "trans": [
+      "六十"
+    ],
+    "usphone": "ˈsɪksti",
+    "ukphone": "ˈsɪksti"
+  },
+  {
+    "name": "seventy",
+    "trans": [
+      "七十"
+    ],
+    "usphone": "ˈsevənti",
+    "ukphone": "ˈsevənti"
+  },
+  {
+    "name": "eighty",
+    "trans": [
+      "八十"
+    ],
+    "usphone": "ˈeɪti",
+    "ukphone": "ˈeɪti"
+  },
+  {
+    "name": "ninety",
+    "trans": [
+      "九十"
+    ],
+    "usphone": "ˈnaɪnti",
+    "ukphone": "ˈnaɪnti"
+  },
+  {
+    "name": "hundred",
+    "trans": [
+      "百",
+      "💯"
+    ],
+    "usphone": "ˈhʌndrəd",
+    "ukphone": "ˈhʌndrəd"
+  },
+  {
+    "name": "thousand",
+    "trans": [
+      "千",
+      "🔢"
+    ],
+    "usphone": "ˈθaʊznd",
+    "ukphone": "ˈθaʊznd"
+  },
+  {
+    "name": "million",
+    "trans": [
+      "百万",
+      "🔢"
+    ],
+    "usphone": "ˈmɪljən",
+    "ukphone": "ˈmɪljən"
+  },
+  {
+    "name": "billion",
+    "trans": [
+      "十亿"
+    ],
+    "usphone": "ˈbɪljən",
+    "ukphone": "ˈbɪljən"
+  },
+  {
+    "name": "trillion",
+    "trans": [
+      "万亿"
+    ],
+    "usphone": "ˈtrɪljən",
+    "ukphone": "ˈtrɪljən"
+  },
+  {
+    "name": "half",
+    "trans": [
+      "一半"
+    ],
+    "usphone": "hæf",
+    "ukphone": "hɑːf"
+  },
+  {
+    "name": "quarter",
+    "trans": [
+      "四分之一"
+    ],
+    "usphone": "ˈkwɔːrtər",
+    "ukphone": "ˈkwɔːtə"
+  },
+  {
+    "name": "third",
+    "trans": [
+      "第三",
+      "🥉"
+    ],
+    "usphone": "θɜːrd",
+    "ukphone": "θɜːd"
+  },
+  {
+    "name": "dozen",
+    "trans": [
+      "一打"
+    ],
+    "usphone": "ˈdʌzn",
+    "ukphone": "ˈdʌzn"
+  },
+  {
+    "name": "score",
+    "trans": [
+      "二十"
+    ],
+    "usphone": "skɔːr",
+    "ukphone": "skɔː"
+  },
+  {
+    "name": "pair",
+    "trans": [
+      "一对"
+    ],
+    "usphone": "per",
+    "ukphone": "peə"
+  },
+  {
+    "name": "couple",
+    "trans": [
+      "几个"
+    ],
+    "usphone": "ˈkʌpl",
+    "ukphone": "ˈkʌpl"
+  },
+  {
+    "name": "several",
+    "trans": [
+      "几个"
+    ],
+    "usphone": "ˈsevrəl",
+    "ukphone": "ˈsevrəl"
+  },
+  {
+    "name": "many",
+    "trans": [
+      "许多",
+      "➕"
+    ],
+    "usphone": "ˈmeni",
+    "ukphone": "ˈmeni"
+  },
+  {
+    "name": "few",
+    "trans": [
+      "很少",
+      "➖"
+    ],
+    "usphone": "fjuː",
+    "ukphone": "fjuː"
+  },
+  {
+    "name": "some",
+    "trans": [
+      "一些"
+    ],
+    "usphone": "sʌm",
+    "ukphone": "sʌm"
+  },
+  {
+    "name": "all",
+    "trans": [
+      "全部"
+    ],
+    "usphone": "ɔːl",
+    "ukphone": "ɔːl"
+  },
+  {
+    "name": "none",
+    "trans": [
+      "没有"
+    ],
+    "usphone": "nʌn",
+    "ukphone": "nʌn"
+  },
+  {
+    "name": "zero",
+    "trans": [
+      "零",
+      "0️⃣"
+    ],
+    "usphone": "ˈzɪroʊ",
+    "ukphone": "ˈzɪərəʊ"
+  },
+  {
+    "name": "first",
+    "trans": [
+      "第一",
+      "🥇"
+    ],
+    "usphone": "fɜːrst",
+    "ukphone": "fɜːst"
+  },
+  {
+    "name": "second",
+    "trans": [
+      "第二",
+      "🥈"
+    ],
+    "usphone": "ˈsekənd",
+    "ukphone": "ˈsekənd"
+  },
+  {
+    "name": "last",
+    "trans": [
+      "最后",
+      "🔚"
+    ],
+    "usphone": "læst",
+    "ukphone": "lɑːst"
+  }
+]
