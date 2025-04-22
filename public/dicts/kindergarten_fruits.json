@@ -90,15 +90,6 @@
         "ukphone": "piːtʃ"
     },
     {
-        "name": "plum",
-        "trans": [
-            "李子",
-            "🍑"
-        ],
-        "usphone": "plʌm",
-        "ukphone": "plʌm"
-    },
-    {
         "name": "cherry",
         "trans": [
             "樱桃",
@@ -126,15 +117,6 @@
         "ukphone": "ˈlemən"
     },
     {
-        "name": "lime",
-        "trans": [
-            "青柠",
-            "🍋"
-        ],
-        "usphone": "laɪm",
-        "ukphone": "laɪm"
-    },
-    {
         "name": "coconut",
         "trans": [
             "椰子",
@@ -142,42 +124,6 @@
         ],
         "usphone": "ˈkoʊkənʌt",
         "ukphone": "ˈkəʊkənʌt"
-    },
-    {
-        "name": "pomegranate",
-        "trans": [
-            "石榴",
-            "🍎"
-        ],
-        "usphone": "ˈpɑːmɪɡrænɪt",
-        "ukphone": "ˈpɒmɪɡrænɪt"
-    },
-    {
-        "name": "fig",
-        "trans": [
-            "无花果",
-            "🍐"
-        ],
-        "usphone": "fɪɡ",
-        "ukphone": "fɪɡ"
-    },
-    {
-        "name": "date",
-        "trans": [
-            "枣",
-            "🍇"
-        ],
-        "usphone": "deɪt",
-        "ukphone": "deɪt"
-    },
-    {
-        "name": "apricot",
-        "trans": [
-            "杏",
-            "🍑"
-        ],
-        "usphone": "ˈæprɪkɑːt",
-        "ukphone": "ˈeɪprɪkɒt"
     },
     {
         "name": "blueberry",
@@ -189,36 +135,9 @@
         "ukphone": "ˈbluːbəri"
     },
     {
-        "name": "raspberry",
-        "trans": [
-            "树莓",
-            "🫐"
-        ],
-        "usphone": "ˈræzberi",
-        "ukphone": "ˈrɑːzbəri"
-    },
-    {
-        "name": "blackberry",
-        "trans": [
-            "黑莓",
-            "🫐"
-        ],
-        "usphone": "ˈblækberi",
-        "ukphone": "ˈblækbəri"
-    },
-    {
-        "name": "cranberry",
-        "trans": [
-            "蔓越莓",
-            "🫐"
-        ],
-        "usphone": "ˈkrænberi",
-        "ukphone": "ˈkrænbəri"
-    },
-    {
         "name": "melon",
         "trans": [
-            "甜瓜",
+            "哈密瓜",
             "🍈"
         ],
         "usphone": "ˈmelən",
@@ -232,15 +151,6 @@
         ],
         "usphone": "pəˈpaɪə",
         "ukphone": "pəˈpaɪə"
-    },
-    {
-        "name": "guava",
-        "trans": [
-            "番石榴",
-            "🍐"
-        ],
-        "usphone": "ˈɡwɑːvə",
-        "ukphone": "ˈɡwɑːvə"
     },
     {
         "name": "dragonfruit",

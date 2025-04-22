@@ -93,7 +93,7 @@
     "name": "gray",
     "trans": [
       "灰色",
-      "⚫"
+      "⚪"
     ],
     "usphone": "ɡreɪ",
     "ukphone": "ɡreɪ"
@@ -115,134 +115,6 @@
     ],
     "usphone": "ˈsɪlvər",
     "ukphone": "ˈsɪlvə"
-  },
-  {
-    "name": "light blue",
-    "trans": [
-      "浅蓝色"
-    ],
-    "usphone": "laɪt bluː",
-    "ukphone": "laɪt bluː"
-  },
-  {
-    "name": "dark blue",
-    "trans": [
-      "深蓝色"
-    ],
-    "usphone": "dɑːrk bluː",
-    "ukphone": "dɑːk bluː"
-  },
-  {
-    "name": "light green",
-    "trans": [
-      "浅绿色"
-    ],
-    "usphone": "laɪt ɡriːn",
-    "ukphone": "laɪt ɡriːn"
-  },
-  {
-    "name": "dark green",
-    "trans": [
-      "深绿色"
-    ],
-    "usphone": "dɑːrk ɡriːn",
-    "ukphone": "dɑːk ɡriːn"
-  },
-  {
-    "name": "light pink",
-    "trans": [
-      "浅粉色"
-    ],
-    "usphone": "laɪt pɪŋk",
-    "ukphone": "laɪt pɪŋk"
-  },
-  {
-    "name": "dark pink",
-    "trans": [
-      "深粉色"
-    ],
-    "usphone": "dɑːrk pɪŋk",
-    "ukphone": "dɑːk pɪŋk"
-  },
-  {
-    "name": "light purple",
-    "trans": [
-      "浅紫色"
-    ],
-    "usphone": "laɪt ˈpɜːrpl",
-    "ukphone": "laɪt ˈpɜːpl"
-  },
-  {
-    "name": "dark purple",
-    "trans": [
-      "深紫色"
-    ],
-    "usphone": "dɑːrk ˈpɜːrpl",
-    "ukphone": "dɑːk ˈpɜːpl"
-  },
-  {
-    "name": "light yellow",
-    "trans": [
-      "浅黄色"
-    ],
-    "usphone": "laɪt ˈjel.oʊ",
-    "ukphone": "laɪt ˈjel.əʊ"
-  },
-  {
-    "name": "dark yellow",
-    "trans": [
-      "深黄色"
-    ],
-    "usphone": "dɑːrk ˈjel.oʊ",
-    "ukphone": "dɑːk ˈjel.əʊ"
-  },
-  {
-    "name": "light red",
-    "trans": [
-      "浅红色"
-    ],
-    "usphone": "laɪt red",
-    "ukphone": "laɪt red"
-  },
-  {
-    "name": "dark red",
-    "trans": [
-      "深红色"
-    ],
-    "usphone": "dɑːrk red",
-    "ukphone": "dɑːk red"
-  },
-  {
-    "name": "light orange",
-    "trans": [
-      "浅橙色"
-    ],
-    "usphone": "laɪt ˈɔːrɪndʒ",
-    "ukphone": "laɪt ˈɒrɪndʒ"
-  },
-  {
-    "name": "dark orange",
-    "trans": [
-      "深橙色"
-    ],
-    "usphone": "dɑːrk ˈɔːrɪndʒ",
-    "ukphone": "dɑːk ˈɒrɪndʒ"
-  },
-  {
-    "name": "light brown",
-    "trans": [
-      "浅棕色"
-    ],
-    "usphone": "laɪt braʊn",
-    "ukphone": "laɪt braʊn"
-  },
-  {
-    "name": "dark brown",
-    "trans": [
-      "深棕色"
-    ],
-    "usphone": "dɑːrk braʊn",
-    "ukphone": "dɑːk braʊn"
   },
   {
     "name": "rainbow",

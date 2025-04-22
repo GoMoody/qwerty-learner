@@ -183,54 +183,6 @@
     "ukphone": "ˈfɑːðə ɪn lɔː"
   },
   {
-    "name": "sister-in-law",
-    "trans": [
-      "嫂子/弟媳"
-    ],
-    "usphone": "ˈsɪstər ɪn lɔː",
-    "ukphone": "ˈsɪstə ɪn lɔː"
-  },
-  {
-    "name": "brother-in-law",
-    "trans": [
-      "姐夫/妹夫"
-    ],
-    "usphone": "ˈbrʌðər ɪn lɔː",
-    "ukphone": "ˈbrʌðə ɪn lɔː"
-  },
-  {
-    "name": "stepmother",
-    "trans": [
-      "继母"
-    ],
-    "usphone": "ˈstepmʌðər",
-    "ukphone": "ˈstepmʌðə"
-  },
-  {
-    "name": "stepfather",
-    "trans": [
-      "继父"
-    ],
-    "usphone": "ˈstepfɑːðər",
-    "ukphone": "ˈstepfɑːðə"
-  },
-  {
-    "name": "stepsister",
-    "trans": [
-      "继姐妹"
-    ],
-    "usphone": "ˈstepsɪstər",
-    "ukphone": "ˈstepsɪstə"
-  },
-  {
-    "name": "stepbrother",
-    "trans": [
-      "继兄弟"
-    ],
-    "usphone": "ˈstepbrʌðər",
-    "ukphone": "ˈstepbrʌðə"
-  },
-  {
     "name": "twin",
     "trans": [
       "双胞胎"
